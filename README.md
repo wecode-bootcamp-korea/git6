@@ -1,10 +1,10 @@
 <table>
       <tbody>
         <tr>
+          <td>이름</td>
           <td>미선</td>
           <td>미선</td>
-          <td>미선</td>
-          <td>이</td>
+          <td>이름</td>
           <td>이름</td>
         </tr>
         <tr>
