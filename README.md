@@ -2,8 +2,8 @@
       <tbody>
         <tr>
 <<<<<<< HEAD
-          <td>이름</td>
-          <td>미선</td>
+          <td>현경</td>
+          <td>현경</td>
           <td>미선</td>
           <td>이름</td>
           <td>이름</td>
