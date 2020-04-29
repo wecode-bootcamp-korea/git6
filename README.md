@@ -1,20 +1,21 @@
 <table>
       <tbody>
         <tr>
+<<<<<<< HEAD
           <td>이름</td>
           <td>미선</td>
           <td>미선</td>
           <td>이름</td>
           <td>이름</td>
-        </tr>
-        <tr>
+=======</tr>
+	<tr>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
-        </tr>
-      </tbody>
+      	</tr>
+	</tbody>
 </table>
 
 ## 땅따먹기 게임
