@@ -1,20 +1,21 @@
 <table>
       <tbody>
         <tr>
-          <td>송제천</td>
-          <td>송제천</td>
-          <td>송제천</td>
-          <td>송제천</td>
-          <td>송제천</td>
-        </tr>
-        <tr>
-          <td>송제천</td>
-          <td>송제천</td>
-          <td>송제천</td>
-          <td>송제천</td>
-          <td>송제천</td>
-        </tr>
-      </tbody>
+<<<<<<< HEAD
+          <td>이름</td>
+          <td>미선</td>
+          <td>미선</td>
+          <td>이름</td>
+          <td>이름</td>
+=======</tr>
+	<tr>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
+      	</tr>
+	</tbody>
 </table>
 
 ## 땅따먹기 게임
