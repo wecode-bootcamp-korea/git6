@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>송제천</td>
-          <td>송제천</td>
-          <td>송제천</td>
-          <td>송제천</td>
-          <td>송제천</td>
+          <td>김남우</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
         </tr>
         <tr>
-          <td>송제천</td>
-          <td>송제천</td>
-          <td>송제천</td>
-          <td>송제천</td>
-          <td>송제천</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>김남우</td>
         </tr>
       </tbody>
 </table>
